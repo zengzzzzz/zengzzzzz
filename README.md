@@ -1,7 +1,7 @@
 ### Hi 👋 I'm [zengzh(merios)](https://www.cnblogs.com/jianzihao/)
 
-- I'm a long-termist and believe the power of time
-- I'm currently focus on open source api gateway, like [apisix](https://github.com/apache/apisix),[easegress](https://github.com/megaease/easegress)
+- I'm a long-termist who believes the power of time
+- I'm currently focus on open source api gateway, like [apisix](https://github.com/apache/apisix), [easegress](https://github.com/megaease/easegress)
 - I'm reading some books about database, like [ddia](https://dataintensive.net/)
 
 ### Github Stats
