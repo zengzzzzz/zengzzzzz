@@ -10,6 +10,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zengzzzzz&layout=compact&langs_count=8" />
 </a>
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zengzzzzz)](https://github.com/anuraghazra/github-readme-stats)
 
 
