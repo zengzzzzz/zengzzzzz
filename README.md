@@ -5,11 +5,9 @@
 - I'm reading some books about database, like [ddia](https://dataintensive.net/)
 
 <a href="/">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zengzzzzz&theme=github">
+  <img height="180em" width="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zengzzzzz&theme=github">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zengzzzzz&show_icons=true&include_all_commits=true&count_private=true&title_color=333" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zengzzzzz&layout=compact&langs_count=8" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zengzzzzz)](https://github.com/anuraghazra/github-readme-stats)
 
 
