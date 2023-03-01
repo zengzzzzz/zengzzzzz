@@ -1,3 +1,4 @@
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 ### Hi 👋 I'm [zengzzzzz](https://www.cnblogs.com/zengzzzzz/)
 
 - I'm a long-termist who believes the power of time
