@@ -1,7 +1,7 @@
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+<!-- ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 ---
-
+ -->
 ### About me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zengzzzzz" alt="sanket9006" /> </p> 
