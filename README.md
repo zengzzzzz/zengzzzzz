@@ -1,8 +1,8 @@
 ### Hi 👋 I'm [zengzzzzz](https://www.cnblogs.com/zengzzzzz/)
 
 - I'm a long-termist who believes the power of time
-- I'm currently focus on open source api gateway, like [apisix](https://github.com/apache/apisix), [easegress](https://github.com/megaease/easegress)
-- I'm reading some books about database, like [ddia](https://dataintensive.net/)
+- I'm currently focus on open source api gateway, like [apisix](https://github.com/apache/apisix)
+- I'm reading some books, like [ddia](https://dataintensive.net/)
 
 <a href="/">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zengzzzzz&theme=github">
