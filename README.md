@@ -4,7 +4,7 @@
 
 - [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [github pages site](https://zengzzzzz.github.io/) 
 - software engineer
-- located on ShenZhen, China util 2023
+- located on ShenZhen, China until 2023
 - focus on open source api gateway, backend of web development and database
 - long-termist 
 - music lover
