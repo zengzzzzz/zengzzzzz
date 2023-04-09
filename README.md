@@ -9,7 +9,7 @@
 - focus on open source api gateway, backend of web development and database
 - long-termist 
 - music lover
-- like to reading and writing, reading ddia now
+- like to reading and writing
 
 ---
 
