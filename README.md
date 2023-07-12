@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zengzzzzz" alt="sanket9006" /> </p> 
 
-- [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [github pages site](https://zengzzzzz.github.io/) 
-- software engineer
-- located on ShenZhen, China until 2023
-- focus on open source api gateway, backend of web development and database
-- long-termist 
-- music lover
-- like to reading and writing
+- [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [github pages site](https://zengzzzzz.github.io/)
+- Software engineer based in Shenzhen, China until 2023
+- Focuses on open source API gateway, backend web development, and database
+- Long-term thinker
+- Music enthusiast
+- Avid reader and writer
 
 ---
 
