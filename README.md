@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zengzzzzz" alt="sanket9006" /> </p> 
 
-- [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [github pages site](https://zengzzzzz.github.io/)
+- [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [personal website](https://zengzzzzz.github.io/)
 - Software engineer based in Shenzhen, China until 2023
 - Focuses on open source API gateway, backend web development, and database
 - Long-term thinker
