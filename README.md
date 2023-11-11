@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zengzzzzz" alt="sanket9006" /> </p> 
 
 - [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [personal website](https://zengzzzzz.github.io/)
-- [2023-05 to now reading record](https://github.com/zengzzzzz/the-reading-history/blob/main/README.md)
+- [2023-05 to now reading record](https://github.com/zengzzzzz/the-reading-history#readme)
 - Software engineer based in Shenzhen, China until 2023
 - Focuses on open source API gateway, backend web development, and database
 - Long-term thinker
