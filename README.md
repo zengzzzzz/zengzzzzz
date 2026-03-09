@@ -5,9 +5,7 @@
 
 - [zengzzzzz blog](https://www.cnblogs.com/zengzzzzz/) and [personal website](https://zengzzzzz.github.io/)
 - [2023-05 to now reading record](https://github.com/zengzzzzz/the-reading-history#readme)
-- Software engineer based in Shenzhen, China until 2024
-- Long-term thinker
-- Avid reader and writer
+- Long-term
 
 ---
 
