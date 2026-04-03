@@ -9,6 +9,9 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&width=500&lines=Long-term+Learner+📚;Open+Source+Enthusiast;zengzzzzz)
+
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <a href="https://github.com/zengzzzzz">
