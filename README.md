@@ -11,6 +11,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<a href="/">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=zengzzzzz&show_icons=true&include_all_commits=true&count_private=true&title_color=333&rank_icon=github" />
+<a href="https://github.com/zengzzzzz">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=zengzzzzz&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
 </a>
